@@ -1,4 +1,4 @@
-# travel_treasury_landing
+# Travel Treasury Landing Page
 
 > A Vue.js project
 
